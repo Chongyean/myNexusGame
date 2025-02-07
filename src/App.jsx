@@ -8,7 +8,7 @@ import Contact from "./components/Contact/Contact";
 import GetStarted from "./components/GetStarted/GetStarted";
 import Footer from "./components/Footer/Footer";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <div>

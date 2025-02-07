@@ -1,7 +1,7 @@
 import "./Hero.css";
 import { HiLocationMarker } from "react-icons/hi";
 import CountUp from "react-countup";
-function Hero() {
+const Hero = () => {
   return (
     <section className="hero-wrapper">
       <div className="paddings innerWidth flexCenter hero-container">
